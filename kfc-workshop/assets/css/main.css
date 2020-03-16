@@ -1,0 +1,58 @@
+body {
+    background-image: url("../img/bg-image.png");
+    font-family: 'Kanit', sans-serif;
+    font-size: 16px;
+}
+
+.main-content {
+    background-color: white;
+}
+
+.kfc-logo {
+    margin-top: 6px;
+    margin-left: 16px;
+}
+
+.btn-login-box {
+    padding-right: 22px;
+    padding-top: 23px;
+}
+
+.btn-order {
+ margin: 24px 20px 19px 0;
+ font-weight: bold;
+}
+
+.text-money{
+    margin: 24px 15px 24px 0;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.btn-login-black{
+    color: black;
+    font-weight: bold;
+}
+
+.btn-menu {
+    margin: 26px 0 26px 16px;
+}
+
+.card-item {
+    box-shadow: 2px 4px 6px 0 rgba(0, 0, 0, 0.25);
+    background-color: #ffffff;
+    padding: 15px;
+    margin: 24px 29px 32px 30px;
+}
+.text-promotion{
+    margin-left: 31px;
+    margin-top: 30px;
+}
+.footer {
+    margin-top: 28px;
+}
+
+.footer-content {
+    margin-bottom: 16px;
+    font-weight: bold;
+}

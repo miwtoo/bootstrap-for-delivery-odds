@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box; /* ทำให้อยู่ในขนาดจริง */
+      }
+      .box1 {
+        width: 120px;
+        height: 40px;
+        background-color: brown;
+        border: 3px solid black;
+        box-sizing: content-box; /* ค่าดั้งเดิมมีทุกอัน */
+      }
+      .box2 {
+        width: 120px;
+        height: 40px;
+        background-color: chartreuse;
+        border: 3px solid black;
+        /* box-sizing: border-box;  */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="box1">1</div>
+    <div class="box2">2</div>
+  </body>
+</html>
